@@ -2,13 +2,13 @@
 
 ## DAT (document d'architecture technique)  
 
-### Un schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels  
+## Schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels  
 
 
 
 ---
 
-### Un tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
+## Tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
 
 |Hostname|Compte|Compte|
 |----|---|---|
@@ -18,13 +18,12 @@
 
 ---
 
-### Un Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.  
+## Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.  
 
 ---
 
-### La présentation des éléments suivants, avec captures d'écran  
 
-#### Vérification des intégrités des images téléchargées avant l'installation  
+### Vérification des intégrités des images téléchargées avant l'installation  
 
 :arrow_forward: **Windows 11 Intégrité**  
 Ici les Hashes sont comparée en sha256 :  
@@ -48,7 +47,7 @@ Néanmoins voici le hash de ma version téléchargée.
 
 
 
-#### Mises à jour réussies  
+### Mises à jour réussies  
 :arrow_forward: **Debian13**  
 <img width="750" height="429" alt="Capture d'écran 2025-10-15 124340" src="https://github.com/user-attachments/assets/e1df0224-347d-4e90-856b-2cbc09396907" />  
 
@@ -66,7 +65,7 @@ Néanmoins voici le hash de ma version téléchargée.
 
 ---
 
-#### le statut des services DNS et Web
+### le statut des services DNS et Web
 
 :arrow_forward: **Status DNS sur Windows Serveur 2025**
 <img width="866" height="342" alt="image" src="https://github.com/user-attachments/assets/f432ecd9-7433-4859-8f88-ca25df5369a4" />
@@ -79,18 +78,23 @@ Néanmoins voici le hash de ma version téléchargée.
 
 ---
 
-#### connexions SSH et WinRM réussies (Connexion + commande whoami)  
+### connexions SSH et WinRM réussies (Connexion + commande whoami)  
 
-:arrow_forward: **Serveur SSH sur Debian 13**  
+* **Serveur SSH sur Debian 13**  
 <img width="619" height="149" alt="image" src="https://github.com/user-attachments/assets/77f8dcd6-d5a4-4996-8d22-94aed061c592" />  
 <img width="761" height="250" alt="image" src="https://github.com/user-attachments/assets/d4a82402-cd9a-4175-90f5-a31587331fd4" />  
 
 :arrow_forward: **Nico est dans le groupe Sudo**  
 <img width="322" height="40" alt="Capture d'écran 2025-10-15 172633" src="https://github.com/user-attachments/assets/31fae145-c553-4651-9303-e82228ccfc4d" />  
+
+:arrow_forward: **Je permets uniquement la connexion pourles membres du groupe "sudoers"**  
 <img width="172" height="36" alt="Capture d'écran 2025-10-15 175048" src="https://github.com/user-attachments/assets/51e6e346-7d50-400b-ae96-e92c309417af" />  
 
-:arrow_forward: **Nico peut se connecter en ssh avec chiffrement asymétrique sans mot de passe**  
-<img width="879" height="220" alt="Capture d'écran 2025-10-15 175221" src="https://github.com/user-attachments/assets/41089c4e-010d-4a0d-aba9-a60e2a1d7330" />
+:arrow_forward: **Je paramètre mon compte "Administrateur" de Windows Server 2025 pour me connecter à "nico" en ssh avec chiffrement asymétrique sans mot de passe**  
+<img width="674" height="517" alt="image" src="https://github.com/user-attachments/assets/93cbec11-9367-4b2f-b0f4-75b9db7560b3" />
+
+<img width="868" height="316" alt="image" src="https://github.com/user-attachments/assets/12ca7d72-c6eb-4acf-abf4-ec2df0863f08" />  
+
 
 
 ---
@@ -100,5 +104,5 @@ Néanmoins voici le hash de ma version téléchargée.
 
 ---
 
-#### Permissions et statut du partage SMB ou Samba  
-#### le nombre d'utilisateurs contenus dans l'AD  
+### Permissions et statut du partage SMB ou Samba  
+### le nombre d'utilisateurs contenus dans l'AD  
