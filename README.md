@@ -106,7 +106,13 @@ Néanmoins voici le hash de ma version téléchargée.
 
 ---
 
-:arrow_forward: **Serveur WinRM sur Windows Server 2025**  
+* **Serveur WinRM sur Windows Server 2025**  
+:arrow_forward: **Activation de WinRM sur le serveur AD (DC1) et vérification du status**  
+<img width="615" height="145" alt="image" src="https://github.com/user-attachments/assets/176e288d-b6f3-4e9c-8e92-a8d0a4c6a79a" />  
+
+:arrow_forward: **Paramétrage d'autorisation des groupes d'admin du domaine AD**  
+<img width="993" height="591" alt="Capture d'écran 2025-10-15 192743" src="https://github.com/user-attachments/assets/c82017af-79e4-4986-8323-cadf65dafff6" />
+
 
 
 ---
