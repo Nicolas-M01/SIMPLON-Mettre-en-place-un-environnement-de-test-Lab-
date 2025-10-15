@@ -66,10 +66,10 @@ Néanmoins voici le hash de ma version téléchargée.
 
 ---
 
-le statut des services DNS et Web
+#### le statut des services DNS et Web
 
 
 
-connexions SSH et WinRM réussies (Connexion + commande whoami)
-Permissions et statut du partage SMB ou Samba
-le nombre d'utilisateurs contenus dans l'AD
+#### connexions SSH et WinRM réussies (Connexion + commande whoami)  
+#### Permissions et statut du partage SMB ou Samba  
+#### le nombre d'utilisateurs contenus dans l'AD  
