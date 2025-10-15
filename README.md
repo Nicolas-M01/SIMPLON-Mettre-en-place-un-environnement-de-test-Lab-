@@ -68,7 +68,12 @@ Néanmoins voici le hash de ma version téléchargée.
 
 #### le statut des services DNS et Web
 
+:arrow_forward: **Status DNS sur Windows Serveur 2025**
+<img width="866" height="342" alt="image" src="https://github.com/user-attachments/assets/f432ecd9-7433-4859-8f88-ca25df5369a4" />
+<img width="465" height="112" alt="Capture d'écran 2025-10-15 165408" src="https://github.com/user-attachments/assets/6c7d1f51-d46f-4c3e-b8ee-cf59a9ea4d5b" />
 
+
+---
 
 #### connexions SSH et WinRM réussies (Connexion + commande whoami)  
 #### Permissions et statut du partage SMB ou Samba  
