@@ -13,8 +13,8 @@
 |Hostname|Compte|Compte|
 |----|---|---|
 |DC1 (Winserv2025)|Administrateur||
-|WIN11 (Windows11)|nicolocal||
-|deian13 (Debian13)|root|nico|
+|WIN11 (Windows11)|nicolocal (local)|nmaertens (domaine nico.local)|
+|Debian13 (Debian13)|root|nico (sudoers group)|
 
 ---
 
