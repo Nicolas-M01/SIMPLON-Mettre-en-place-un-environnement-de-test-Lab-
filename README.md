@@ -48,7 +48,28 @@ Néanmoins voici le hash de ma version téléchargée.
 
 
 
-Mises à jour réussies * le statut des services DNS et Web
+#### Mises à jour réussies  
+:arrow_forward: **Debian13**  
+<img width="750" height="429" alt="Capture d'écran 2025-10-15 124340" src="https://github.com/user-attachments/assets/e1df0224-347d-4e90-856b-2cbc09396907" />  
+
+---
+
+:arrow_forward: **Windows Server 2025**  
+<img width="507" height="309" alt="image" src="https://github.com/user-attachments/assets/e81573bc-a208-4d26-bdc9-dbb9c570de95" />  
+
+
+---
+
+:arrow_forward: **Windows 11 Intégrité**  
+<img width="519" height="282" alt="image" src="https://github.com/user-attachments/assets/3f2aec9a-110a-46a1-8ce3-56ef203926ba" />
+
+
+---
+
+le statut des services DNS et Web
+
+
+
 connexions SSH et WinRM réussies (Connexion + commande whoami)
 Permissions et statut du partage SMB ou Samba
 le nombre d'utilisateurs contenus dans l'AD
