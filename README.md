@@ -6,8 +6,8 @@
 
 * Un tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
 
-|Hostname|Liste des comptes|
-|----|---|
+|Hostname|Compte|Compte|
+|----|---|---|
 |DC1 (Winserv2025)|Administrateur||
 |WIN11 (Windows11)|nicolocal||
 |deian13 (Debian13)|root|nico|
