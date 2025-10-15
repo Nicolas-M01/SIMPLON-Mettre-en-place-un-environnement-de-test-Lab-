@@ -82,12 +82,21 @@ Néanmoins voici le hash de ma version téléchargée.
 #### connexions SSH et WinRM réussies (Connexion + commande whoami)  
 
 :arrow_forward: **Serveur SSH sur Debian 13**  
-<img width="619" height="149" alt="image" src="https://github.com/user-attachments/assets/77f8dcd6-d5a4-4996-8d22-94aed061c592" />
+<img width="619" height="149" alt="image" src="https://github.com/user-attachments/assets/77f8dcd6-d5a4-4996-8d22-94aed061c592" />  
+<img width="761" height="250" alt="image" src="https://github.com/user-attachments/assets/d4a82402-cd9a-4175-90f5-a31587331fd4" />  
+
+:arrow_forward: **Nico est dans le groupe Sudo**  
+<img width="322" height="40" alt="Capture d'écran 2025-10-15 172633" src="https://github.com/user-attachments/assets/31fae145-c553-4651-9303-e82228ccfc4d" />  
+<img width="172" height="36" alt="Capture d'écran 2025-10-15 175048" src="https://github.com/user-attachments/assets/51e6e346-7d50-400b-ae96-e92c309417af" />  
+<img width="879" height="220" alt="Capture d'écran 2025-10-15 175221" src="https://github.com/user-attachments/assets/41089c4e-010d-4a0d-aba9-a60e2a1d7330" />
+
 
 ---
 
 :arrow_forward: **Serveur WinRM sur Windows Server 2025**  
 
+
+---
 
 #### Permissions et statut du partage SMB ou Samba  
 #### le nombre d'utilisateurs contenus dans l'AD  
