@@ -80,5 +80,14 @@ Néanmoins voici le hash de ma version téléchargée.
 ---
 
 #### connexions SSH et WinRM réussies (Connexion + commande whoami)  
+
+:arrow_forward: **Serveur SSH sur Debian 13**  
+<img width="619" height="149" alt="image" src="https://github.com/user-attachments/assets/77f8dcd6-d5a4-4996-8d22-94aed061c592" />
+
+---
+
+:arrow_forward: **Serveur WinRM sur Windows Server 2025**  
+
+
 #### Permissions et statut du partage SMB ou Samba  
 #### le nombre d'utilisateurs contenus dans l'AD  
