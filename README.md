@@ -87,11 +87,21 @@ Néanmoins voici le hash de ma version téléchargée.
 :arrow_forward: **Nico est dans le groupe Sudo**  
 <img width="322" height="40" alt="Capture d'écran 2025-10-15 172633" src="https://github.com/user-attachments/assets/31fae145-c553-4651-9303-e82228ccfc4d" />  
 
-:arrow_forward: **Je permets uniquement la connexion pourles membres du groupe "sudoers"**  
+:arrow_forward: **Je permets uniquement la connexion pour les membres du groupe "sudoers" et j'apporte de la sécurité dans la connexion SSH**  
 <img width="172" height="36" alt="Capture d'écran 2025-10-15 175048" src="https://github.com/user-attachments/assets/51e6e346-7d50-400b-ae96-e92c309417af" />  
+<img width="674" height="517" alt="image" src="https://github.com/user-attachments/assets/93cbec11-9367-4b2f-b0f4-75b9db7560b3" />
+
 
 :arrow_forward: **Je paramètre mon compte "Administrateur" de Windows Server 2025 pour me connecter à "nico" en ssh avec chiffrement asymétrique sans mot de passe**  
-<img width="674" height="517" alt="image" src="https://github.com/user-attachments/assets/93cbec11-9367-4b2f-b0f4-75b9db7560b3" />
+:arrow_forward: **Génération d'une paire de clés SSH en ed25519**  
+<img width="719" height="426" alt="Capture d'écran 2025-10-15 185708" src="https://github.com/user-attachments/assets/40650d1c-e6ae-4809-9528-d9367cecfa3f" />  
+:arrow_forward: **Vérification de la clé publique**  
+<img width="990" height="41" alt="Capture d'écran 2025-10-15 185739" src="https://github.com/user-attachments/assets/0eac423f-0a02-4b53-b912-f60ccb757d84" />
+:arrow_forward: **Envoi de la clé publique sur le serveur SSH Debian 13 avec modif des droits au dossier ".ssh" et fichier "authorized_keys"**  
+<img width="1015" height="240" alt="Capture d'écran 2025-10-15 185758" src="https://github.com/user-attachments/assets/f538a034-405e-44fc-bd80-675ba386d22b" />
+
+
+
 
 <img width="868" height="316" alt="image" src="https://github.com/user-attachments/assets/12ca7d72-c6eb-4acf-abf4-ec2df0863f08" />  
 
