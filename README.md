@@ -114,6 +114,7 @@ Néanmoins voici le hash de ma version téléchargée.
 <img width="993" height="591" alt="Capture d'écran 2025-10-15 192743" src="https://github.com/user-attachments/assets/c82017af-79e4-4986-8323-cadf65dafff6" />  
 
 :arrow_forward: **Connexion réussie depuis un compte admin membre du groupe admin**  
+<img width="606" height="191" alt="image" src="https://github.com/user-attachments/assets/a11bd987-6d68-485f-85b7-ec982c6232d4" />
 <img width="847" height="204" alt="Capture d'écran 2025-10-15 193401" src="https://github.com/user-attachments/assets/5a34a964-d1b8-4a6c-bb63-cd5788b7593c" />  
 
 :arrow_forward: **Connexion échouée depuis un compte user classique**  
