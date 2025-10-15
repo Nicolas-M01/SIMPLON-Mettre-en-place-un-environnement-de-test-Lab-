@@ -120,9 +120,18 @@ Néanmoins voici le hash de ma version téléchargée.
 :arrow_forward: **Connexion échouée depuis un compte user classique**  
 <img width="992" height="170" alt="Capture d'écran 2025-10-15 194230" src="https://github.com/user-attachments/assets/74f36a18-da08-4fdb-a228-477bf34ff65a" />  
 
-
-
 ---
 
 ### Permissions et statut du partage SMB ou Samba  
+:arrow_forward: **Permissions des dossiers partagés SMB**  
+<img width="673" height="249" alt="image" src="https://github.com/user-attachments/assets/3fada9b0-b732-4397-9772-48b2b5580393" />
+
+
+
+
+
+
+
+
+
 ### le nombre d'utilisateurs contenus dans l'AD  
