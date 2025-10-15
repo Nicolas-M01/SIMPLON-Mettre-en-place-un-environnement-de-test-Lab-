@@ -111,7 +111,13 @@ Néanmoins voici le hash de ma version téléchargée.
 <img width="615" height="145" alt="image" src="https://github.com/user-attachments/assets/176e288d-b6f3-4e9c-8e92-a8d0a4c6a79a" />  
 
 :arrow_forward: **Paramétrage d'autorisation des groupes d'admin du domaine AD**  
-<img width="993" height="591" alt="Capture d'écran 2025-10-15 192743" src="https://github.com/user-attachments/assets/c82017af-79e4-4986-8323-cadf65dafff6" />
+<img width="993" height="591" alt="Capture d'écran 2025-10-15 192743" src="https://github.com/user-attachments/assets/c82017af-79e4-4986-8323-cadf65dafff6" />  
+
+:arrow_forward: **Connexion réussie depuis un compte admin membre du groupe admin**  
+<img width="847" height="204" alt="Capture d'écran 2025-10-15 193401" src="https://github.com/user-attachments/assets/5a34a964-d1b8-4a6c-bb63-cd5788b7593c" />  
+
+:arrow_forward: **Connexion échouée depuis un compte user classique**  
+<img width="992" height="170" alt="Capture d'écran 2025-10-15 194230" src="https://github.com/user-attachments/assets/74f36a18-da08-4fdb-a228-477bf34ff65a" />  
 
 
 
