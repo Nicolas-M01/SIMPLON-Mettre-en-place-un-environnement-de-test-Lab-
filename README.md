@@ -30,10 +30,22 @@
 Ici les Hashes sont comparée en sha256 :  
 <img width="1088" height="248" alt="Capture d'écran 2025-10-15 115632" src="https://github.com/user-attachments/assets/edd61804-39b6-4eeb-aae1-43b30b368741" />  
 
-:arrow_forward: **Debian 13 Intégrité** 
+---
 
+:arrow_forward: **Debian 13 Intégrité**  
 Ici les hashes sont comparés en sha512 :  
 <img width="1178" height="187" alt="Capture d'écran 2025-10-15 122532" src="https://github.com/user-attachments/assets/760f0c67-f5d1-4a07-be02-e58685a6c01a" />
+
+---
+
+:arrow_forward: **Windows Server 2025**  
+
+Je n'ai pas trouvé le hash officiel de mon ISO, mais étant donné que j'ai téléchargé l'ISO sur le site officiel Microsoft, je dois avoir un ISO intègre.  
+Néanmoins voici le hash de ma version téléchargée.  
+<img width="1469" height="100" alt="Capture d'écran 2025-10-15 123837" src="https://github.com/user-attachments/assets/56d2e59c-9ed4-44b6-acba-fb6d8b1db11f" />
+
+
+
 
 
 Mises à jour réussies * le statut des services DNS et Web
