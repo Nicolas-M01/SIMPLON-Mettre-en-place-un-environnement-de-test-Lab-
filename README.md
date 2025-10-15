@@ -88,6 +88,8 @@ Néanmoins voici le hash de ma version téléchargée.
 :arrow_forward: **Nico est dans le groupe Sudo**  
 <img width="322" height="40" alt="Capture d'écran 2025-10-15 172633" src="https://github.com/user-attachments/assets/31fae145-c553-4651-9303-e82228ccfc4d" />  
 <img width="172" height="36" alt="Capture d'écran 2025-10-15 175048" src="https://github.com/user-attachments/assets/51e6e346-7d50-400b-ae96-e92c309417af" />  
+
+:arrow_forward: **Nico peut se connecter en ssh avec chiffrement asymétrique sans mot de passe**  
 <img width="879" height="220" alt="Capture d'écran 2025-10-15 175221" src="https://github.com/user-attachments/assets/41089c4e-010d-4a0d-aba9-a60e2a1d7330" />
 
 
