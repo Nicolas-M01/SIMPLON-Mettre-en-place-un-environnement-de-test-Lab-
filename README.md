@@ -2,9 +2,15 @@
 
 ## DAT (document d'architecture technique)  
 
-* Un schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels
+* Un schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels  
 
-Un tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
+* Un tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
+
+|Hostname|Liste des comptes|
+|----|---|
+|DC1 (Winserv2025)|Administrateur||
+|WIN11 (Windows11)|nicolocal||
+|deian13 (Debian13)|root|nico|
 
 Un Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.
 
