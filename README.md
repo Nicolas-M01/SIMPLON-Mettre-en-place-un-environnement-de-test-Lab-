@@ -2,9 +2,13 @@
 
 ## DAT (document d'architecture technique)  
 
-* Un schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels  
+### Un schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels  
 
-* Un tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
+
+
+---
+
+### Un tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
 
 |Hostname|Compte|Compte|
 |----|---|---|
@@ -12,11 +16,26 @@
 |WIN11 (Windows11)|nicolocal||
 |deian13 (Debian13)|root|nico|
 
-Un Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.
+---
 
-La présentation des éléments suivants, avec captures d'écran
+### Un Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.  
 
-Vérification des intégrités des images téléchargées avant l'installation
+---
+
+### La présentation des éléments suivants, avec captures d'écran  
+
+#### Vérification des intégrités des images téléchargées avant l'installation  
+
+:arrow_forward: **Windows 11 Intégrité**  
+Ici les Hashes sont comparée en sha256 :  
+<img width="1088" height="248" alt="Capture d'écran 2025-10-15 115632" src="https://github.com/user-attachments/assets/edd61804-39b6-4eeb-aae1-43b30b368741" />  
+
+:arrow_forward: **Debian 13 Intégrité** 
+
+Ici les hashes sont comparés en sha512 :  
+<img width="1178" height="187" alt="Capture d'écran 2025-10-15 122532" src="https://github.com/user-attachments/assets/760f0c67-f5d1-4a07-be02-e58685a6c01a" />
+
+
 Mises à jour réussies * le statut des services DNS et Web
 connexions SSH et WinRM réussies (Connexion + commande whoami)
 Permissions et statut du partage SMB ou Samba
