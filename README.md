@@ -72,6 +72,10 @@ Néanmoins voici le hash de ma version téléchargée.
 <img width="866" height="342" alt="image" src="https://github.com/user-attachments/assets/f432ecd9-7433-4859-8f88-ca25df5369a4" />
 <img width="465" height="112" alt="Capture d'écran 2025-10-15 165408" src="https://github.com/user-attachments/assets/6c7d1f51-d46f-4c3e-b8ee-cf59a9ea4d5b" />
 
+---
+
+:arrow_forward: **Status serveur Web Apache2 sur Debian 13**  
+<img width="806" height="355" alt="Capture d'écran 2025-10-15 165743" src="https://github.com/user-attachments/assets/523993b5-c15a-4f1e-844b-6861fdbb07e7" />  
 
 ---
 
