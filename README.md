@@ -3,7 +3,7 @@
 ## DAT (document d'architecture technique)  
 
 ## Schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels  
-👉 [Voir l’image de présentation](images/presentation.png)
+👉 [Voir l’image de présentation](scema.png)
 
 
 
