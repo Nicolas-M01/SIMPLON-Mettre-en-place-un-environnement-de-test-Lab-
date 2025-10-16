@@ -2,14 +2,14 @@
 
 ## DAT (document d'architecture technique)  
 
-## Schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels  
+## :large_blue_circle: Schéma réseau, incluant les VM, l'Hyperviseur et les switchs virtuels  
 👉 [Schéma réseau](scema.png)
 
 
 
 ---
 
-## Tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
+## :large_blue_circle: Tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
 
 |Hostname|Compte|Compte|
 |----|---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.  
+## :large_blue_circle: Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.  
 
 >J'ai réalisé ce diagramme de Gantt afin de montrer l'ordre dans lequel j'ai travaillé. Je n'ai pas vraiment de temps quantifié sur ce projet pour chaque étape individuelle.  
 <img width="1330" height="718" alt="image" src="https://github.com/user-attachments/assets/8af09dbc-46bf-4dba-99ea-ce1830cea345" />
@@ -27,7 +27,7 @@
 ---
 
 
-### Vérification des intégrités des images téléchargées avant l'installation  
+### :large_blue_circle: Vérification des intégrités des images téléchargées avant l'installation  
 
 :arrow_forward: **Windows 11 Intégrité**  
 Ici les Hashes sont comparés en sha256 :  
@@ -51,7 +51,7 @@ Ici les hashes sont comparés en sha512 :
 
 
 
-### Mises à jour réussies  
+### :large_blue_circle: Mises à jour réussies  
 :arrow_forward: **Debian13**  
 <img width="750" height="429" alt="Capture d'écran 2025-10-15 124340" src="https://github.com/user-attachments/assets/e1df0224-347d-4e90-856b-2cbc09396907" />  
 
@@ -69,7 +69,7 @@ Ici les hashes sont comparés en sha512 :
 
 ---
 
-### le statut des services DNS et Web
+### :large_blue_circle: le statut des services DNS et Web
 
 :arrow_forward: **Status DNS sur Windows Serveur 2025**
 <img width="866" height="342" alt="image" src="https://github.com/user-attachments/assets/f432ecd9-7433-4859-8f88-ca25df5369a4" />
@@ -82,7 +82,7 @@ Ici les hashes sont comparés en sha512 :
 
 ---
 
-### connexions SSH et WinRM réussies (Connexion + commande whoami)  
+### :large_blue_circle: connexions SSH et WinRM réussies (Connexion + commande whoami)  
 
 * **Serveur SSH sur Debian 13**  
 <img width="619" height="149" alt="image" src="https://github.com/user-attachments/assets/77f8dcd6-d5a4-4996-8d22-94aed061c592" />  
@@ -126,19 +126,19 @@ Ici les hashes sont comparés en sha512 :
 
 ---
 
-### Permissions et statut du partage SMB ou Samba  
+### :large_blue_circle: Permissions et statut du partage SMB ou Samba  
 :arrow_forward: **Permissions des dossiers partagés SMB**  
 <img width="673" height="249" alt="image" src="https://github.com/user-attachments/assets/3fada9b0-b732-4397-9772-48b2b5580393" />  
 
 ---
 
-### Le nombre d'utilisateurs contenus dans l'AD  
+### :large_blue_circle: Le nombre d'utilisateurs contenus dans l'AD  
 :arrow_forward: **Utilisateurs, Computers, Groups, OUs**  
 <img width="677" height="157" alt="Capture d'écran 2025-10-16 103038" src="https://github.com/user-attachments/assets/fdf9d4cc-8fdd-40a5-aad5-b9c9ab9a7e78" />  
 
 ---
 
-### VulnerableLightApp  
+### :large_blue_circle: VulnerableLightApp  
 
 :arrow_forward: Après avoir installé git et Dotnet et téléchargé le dépôt de VulnerableLightApp, je lance l'application  
 
