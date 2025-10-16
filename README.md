@@ -20,6 +20,8 @@
 ---
 
 ## Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.  
+
+>J'ai réalisé ce diagramme de Gantt afin de montrer l'ordre dans lequel j'ai travaillé. Je n'ai pas vraiment de temps quantifié sur ce projet pour chaque étape individuelle.  
 <img width="1330" height="718" alt="image" src="https://github.com/user-attachments/assets/8af09dbc-46bf-4dba-99ea-ce1830cea345" />
 
 ---
@@ -28,7 +30,7 @@
 ### Vérification des intégrités des images téléchargées avant l'installation  
 
 :arrow_forward: **Windows 11 Intégrité**  
-Ici les Hashes sont comparée en sha256 :  
+Ici les Hashes sont comparés en sha256 :  
 <img width="1088" height="248" alt="Capture d'écran 2025-10-15 115632" src="https://github.com/user-attachments/assets/edd61804-39b6-4eeb-aae1-43b30b368741" />  
 
 ---
@@ -41,8 +43,8 @@ Ici les hashes sont comparés en sha512 :
 
 :arrow_forward: **Windows Server 2025**  
 
-Je n'ai pas trouvé le hash officiel de mon ISO, mais étant donné que j'ai téléchargé l'ISO sur le site officiel Microsoft, je dois avoir un ISO intègre.  
-Néanmoins voici le hash de ma version téléchargée.  
+>Je n'ai pas trouvé le hash officiel de mon ISO, mais étant donné que j'ai téléchargé l'ISO sur le site officiel Microsoft, je dois avoir un ISO intègre.  
+>Néanmoins voici le hash de ma version téléchargée.  
 <img width="1469" height="100" alt="Capture d'écran 2025-10-15 123837" src="https://github.com/user-attachments/assets/56d2e59c-9ed4-44b6-acba-fb6d8b1db11f" />
 
 
