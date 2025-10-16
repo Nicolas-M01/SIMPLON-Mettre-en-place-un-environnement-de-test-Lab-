@@ -126,12 +126,11 @@ Néanmoins voici le hash de ma version téléchargée.
 :arrow_forward: **Permissions des dossiers partagés SMB**  
 <img width="673" height="249" alt="image" src="https://github.com/user-attachments/assets/3fada9b0-b732-4397-9772-48b2b5580393" />
 
-
-
-
-
-
-
-
+---
 
 ### le nombre d'utilisateurs contenus dans l'AD  
+:arrow_forward: **Utilisateurs, Computers, Groups, OUs**  
+<img width="677" height="157" alt="Capture d'écran 2025-10-16 103038" src="https://github.com/user-attachments/assets/fdf9d4cc-8fdd-40a5-aad5-b9c9ab9a7e78" />  
+
+
+
