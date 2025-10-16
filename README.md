@@ -9,7 +9,7 @@
 
 ---
 
-## :large_blue_circle: Tableau avec la liste des comptes utilisés pour l'administration et l'emplacement du gestionnaire de secrets contenant les mots de passe.
+## :large_blue_circle: Tableau avec la liste des comptes utilisés pour l'administration
 
 |Hostname|Compte|Compte|
 |----|---|---|
