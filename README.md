@@ -126,13 +126,24 @@ Néanmoins voici le hash de ma version téléchargée.
 
 ### Permissions et statut du partage SMB ou Samba  
 :arrow_forward: **Permissions des dossiers partagés SMB**  
-<img width="673" height="249" alt="image" src="https://github.com/user-attachments/assets/3fada9b0-b732-4397-9772-48b2b5580393" />
+<img width="673" height="249" alt="image" src="https://github.com/user-attachments/assets/3fada9b0-b732-4397-9772-48b2b5580393" />  
 
 ---
 
-### le nombre d'utilisateurs contenus dans l'AD  
+### Le nombre d'utilisateurs contenus dans l'AD  
 :arrow_forward: **Utilisateurs, Computers, Groups, OUs**  
 <img width="677" height="157" alt="Capture d'écran 2025-10-16 103038" src="https://github.com/user-attachments/assets/fdf9d4cc-8fdd-40a5-aad5-b9c9ab9a7e78" />  
 
+---
 
+### VulnerableLightApp  
+
+:arrow_forward: Après avoir installé git et Dotnet et téléchargé le dépôt de VulnerableLightApp, je lance l'application  
+<img width="1266" height="459" alt="Capture d'écran 2025-10-16 154124" src="https://github.com/user-attachments/assets/507c3549-285c-42be-b7b6-cc3a813837d8" />
+
+:arrow_forward: Le port 3000 est bien en écoute vers l'extérieur  
+<img width="1248" height="143" alt="Capture d'écran 2025-10-16 154529" src="https://github.com/user-attachments/assets/0db4fb00-46dc-44c2-92f6-9cefee00c530" />
+
+:arrow_forward: Connexion depuis une autre machine sur le même réseau.  
+<img width="1019" height="236" alt="Capture d'écran 2025-10-16 154141" src="https://github.com/user-attachments/assets/4bcd9df2-a6fe-4aff-b3e9-3cc6eb129801" />
 
