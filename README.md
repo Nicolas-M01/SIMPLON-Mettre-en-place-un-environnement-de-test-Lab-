@@ -1,4 +1,4 @@
-# Mettre en place un environnement de test (Lab)  
+# 🛡️ Mettre en place un environnement de test (Lab) 🛡️  
 
 ## DAT (document d'architecture technique)  
 
@@ -164,3 +164,6 @@ Ici les hashes sont comparés en sha512 :
 <img width="1019" height="236" alt="Capture d'écran 2025-10-16 154141" src="https://github.com/user-attachments/assets/4bcd9df2-a6fe-4aff-b3e9-3cc6eb129801" />
 
 ---
+
+# 🐱‍💻 Pentest Lab 🐱‍💻
+
