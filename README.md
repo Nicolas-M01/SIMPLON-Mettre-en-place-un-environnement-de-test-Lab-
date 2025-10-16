@@ -20,6 +20,7 @@
 ---
 
 ## Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.  
+<img width="1330" height="718" alt="image" src="https://github.com/user-attachments/assets/8af09dbc-46bf-4dba-99ea-ce1830cea345" />
 
 ---
 
