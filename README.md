@@ -139,11 +139,19 @@ Néanmoins voici le hash de ma version téléchargée.
 ### VulnerableLightApp  
 
 :arrow_forward: Après avoir installé git et Dotnet et téléchargé le dépôt de VulnerableLightApp, je lance l'application  
+
 <img width="1266" height="459" alt="Capture d'écran 2025-10-16 154124" src="https://github.com/user-attachments/assets/507c3549-285c-42be-b7b6-cc3a813837d8" />
 
+---
+
 :arrow_forward: Le port 3000 est bien en écoute vers l'extérieur  
+
 <img width="1248" height="143" alt="Capture d'écran 2025-10-16 154529" src="https://github.com/user-attachments/assets/0db4fb00-46dc-44c2-92f6-9cefee00c530" />
 
+---
+
 :arrow_forward: Connexion depuis une autre machine sur le même réseau.  
+
 <img width="1019" height="236" alt="Capture d'écran 2025-10-16 154141" src="https://github.com/user-attachments/assets/4bcd9df2-a6fe-4aff-b3e9-3cc6eb129801" />
 
+---
