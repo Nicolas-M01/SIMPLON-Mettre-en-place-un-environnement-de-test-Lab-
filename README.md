@@ -130,6 +130,13 @@ Ici les hashes sont comparés en sha512 :
 :arrow_forward: **Permissions des dossiers partagés SMB**  
 <img width="673" height="249" alt="image" src="https://github.com/user-attachments/assets/3fada9b0-b732-4397-9772-48b2b5580393" />  
 
+:arrow_forward: **Permissions NTFS des dossiers partagés SMB**
+>Lecture seule  
+<img width="772" height="181" alt="Capture d'écran 2025-10-16 160836" src="https://github.com/user-attachments/assets/0a3aa1d1-f418-4334-817d-4ee240b6e5b8" />
+>
+>Lecture et écriture  
+<img width="779" height="190" alt="Capture d'écran 2025-10-16 160932" src="https://github.com/user-attachments/assets/fef487d9-1a6f-40af-9167-0eab83426942" />
+
 ---
 
 ### :large_blue_circle: Le nombre d'utilisateurs contenus dans l'AD  
