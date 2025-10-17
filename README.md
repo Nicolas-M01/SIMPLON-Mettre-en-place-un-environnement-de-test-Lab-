@@ -149,7 +149,9 @@ Ici les hashes sont comparés en sha512 :
 
 ---
 
-### :large_blue_circle: Permissions et statut du partage SMB ou Samba  
+<details>
+<summary><h2> :large_blue_circle: Permissions et statut du partage SMB ou Samba<h2></summary>  
+  
 :arrow_forward: **Permissions des dossiers partagés SMB**  
 <img width="673" height="249" alt="image" src="https://github.com/user-attachments/assets/3fada9b0-b732-4397-9772-48b2b5580393" />  
 
@@ -159,16 +161,21 @@ Ici les hashes sont comparés en sha512 :
 
 >Lecture et écriture  
 <img width="779" height="190" alt="Capture d'écran 2025-10-16 160932" src="https://github.com/user-attachments/assets/fef487d9-1a6f-40af-9167-0eab83426942" />
+</details>
 
 ---
 
-### :large_blue_circle: Le nombre d'utilisateurs contenus dans l'AD  
+<details>
+<summary><h2> :large_blue_circle: Le nombre d'utilisateurs contenus dans l'AD<h2></summary>  
+  
 :arrow_forward: **Utilisateurs, Computers, Groups, OUs**  
 <img width="677" height="157" alt="Capture d'écran 2025-10-16 103038" src="https://github.com/user-attachments/assets/fdf9d4cc-8fdd-40a5-aad5-b9c9ab9a7e78" />  
+</details>
 
 ---
 
-### :large_blue_circle: VulnerableLightApp  
+<details>
+<summary><h2> :large_blue_circle: VulnerableLightApp<h2></summary>  
 
 :arrow_forward: Après avoir installé git et Dotnet et téléchargé le dépôt de VulnerableLightApp, je lance l'application  
 
@@ -185,6 +192,7 @@ Ici les hashes sont comparés en sha512 :
 :arrow_forward: Connexion depuis une autre machine sur le même réseau.  
 
 <img width="1019" height="236" alt="Capture d'écran 2025-10-16 154141" src="https://github.com/user-attachments/assets/4bcd9df2-a6fe-4aff-b3e9-3cc6eb129801" />
+</details>
 
 ---
 
