@@ -43,7 +43,8 @@
 ---
 
 
-### :large_blue_circle: Vérification des intégrités des images téléchargées avant l'installation  
+<details>
+<summary><h2> :large_blue_circle: Vérification des intégrités des images téléchargées avant l'installation<h2></summary>   
 
 :arrow_forward: **Windows 11 Intégrité**  
 Ici les Hashes sont comparés en sha256 :  
@@ -62,15 +63,17 @@ Ici les hashes sont comparés en sha512 :
 >Je n'ai pas trouvé le hash officiel de mon ISO, mais étant donné que j'ai téléchargé l'ISO sur le site officiel Microsoft, je dois avoir un ISO intègre.  
 >Néanmoins voici le hash de ma version téléchargée.  
 <img width="1469" height="100" alt="Capture d'écran 2025-10-15 123837" src="https://github.com/user-attachments/assets/56d2e59c-9ed4-44b6-acba-fb6d8b1db11f" />
+</details>
+
+---
 
 
-
-
-
-### :large_blue_circle: Mises à jour réussies  
+<details>
+<summary><h2> :large_blue_circle: Mises à jour réussies<h2></summary>  
+  
 :arrow_forward: **Debian13**  
 <img width="750" height="429" alt="Capture d'écran 2025-10-15 124340" src="https://github.com/user-attachments/assets/e1df0224-347d-4e90-856b-2cbc09396907" />  
-
+  
 ---
 
 :arrow_forward: **Windows Server 2025**  
@@ -81,7 +84,7 @@ Ici les hashes sont comparés en sha512 :
 
 :arrow_forward: **Windows 11 Intégrité**  
 <img width="519" height="282" alt="image" src="https://github.com/user-attachments/assets/3f2aec9a-110a-46a1-8ce3-56ef203926ba" />
-
+</details>
 
 ---
 
