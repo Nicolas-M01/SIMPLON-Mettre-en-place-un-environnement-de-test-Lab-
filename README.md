@@ -88,7 +88,8 @@ Ici les hashes sont comparés en sha512 :
 
 ---
 
-### :large_blue_circle: le statut des services DNS et Web
+<details>
+<summary><h2>  :large_blue_circle: le statut des services DNS et Web<h2></summary> 
 
 :arrow_forward: **Status DNS sur Windows Serveur 2025**
 <img width="866" height="342" alt="image" src="https://github.com/user-attachments/assets/f432ecd9-7433-4859-8f88-ca25df5369a4" />
@@ -98,10 +99,12 @@ Ici les hashes sont comparés en sha512 :
 
 :arrow_forward: **Status serveur Web Apache2 sur Debian 13**  
 <img width="806" height="355" alt="Capture d'écran 2025-10-15 165743" src="https://github.com/user-attachments/assets/523993b5-c15a-4f1e-844b-6861fdbb07e7" />  
+</details>
 
 ---
 
-### :large_blue_circle: connexions SSH et WinRM réussies (Connexion + commande whoami)  
+<details>
+<summary><h2>  :large_blue_circle: connexions SSH et WinRM réussies (Connexion + commande whoami)<h2></summary>  
 
 * **Serveur SSH sur Debian 13**  
 <img width="619" height="149" alt="image" src="https://github.com/user-attachments/assets/77f8dcd6-d5a4-4996-8d22-94aed061c592" />  
@@ -142,6 +145,7 @@ Ici les hashes sont comparés en sha512 :
 
 :arrow_forward: **Connexion échouée depuis un compte user classique**  
 <img width="992" height="170" alt="Capture d'écran 2025-10-15 194230" src="https://github.com/user-attachments/assets/74f36a18-da08-4fdb-a228-477bf34ff65a" />  
+</details>
 
 ---
 
