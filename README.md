@@ -19,6 +19,14 @@
 
 ---
 
+## :large_blue_circle: Emplacement du gestionnaire de secrets contenant les mots de passe  
+
+:arrow_forward: Les mots de passe sont stockés sur ma machine physique en local avec KeePass.  
+
+<img width="487" height="133" alt="Capture d'écran 2025-10-17 105750" src="https://github.com/user-attachments/assets/a7520d26-c51f-4f68-bffc-8fa1613fcda5" />
+
+---
+
 ## :large_blue_circle: Diagramme de Gantt ou un Kanban de votre réalisation pour la partie gestion de projet.  
 
 >J'ai réalisé ce diagramme de Gantt afin de montrer l'ordre dans lequel j'ai travaillé. Je n'ai pas vraiment de temps quantifié sur ce projet pour chaque étape individuelle.  
