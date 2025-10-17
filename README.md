@@ -9,7 +9,8 @@
 
 ---
 
-## :large_blue_circle: Tableau avec la liste des comptes utilisés pour l'administration
+<details>
+<summary><h2> :large_blue_circle: Tableau avec la liste des comptes utilisés pour l'administration<h2></summary>
 
 |Hostname|Compte|Compte|
 |----|---|---|
@@ -17,13 +18,18 @@
 |WIN11 (Windows11)|nicolocal ( admin local)|nmaertens (user domaine **nico.local**)|
 |Debian13 (Debian13)|root|nico (sudoers group)|
 
+</details>
+
 ---
 
-## :large_blue_circle: Emplacement du gestionnaire de secrets contenant les mots de passe  
+<details>
+<summary><h2> :large_blue_circle: Emplacement du gestionnaire de secrets contenant les mots de passe<h2></summary>  
 
 :arrow_forward: Les mots de passe sont stockés sur ma machine physique en local avec KeePass.  
 
 <img width="487" height="133" alt="Capture d'écran 2025-10-17 105750" src="https://github.com/user-attachments/assets/a7520d26-c51f-4f68-bffc-8fa1613fcda5" />
+
+</details>
 
 ---
 
